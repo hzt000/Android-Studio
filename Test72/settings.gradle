@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+<<<<<<< HEAD
+rootProject.name = "Test7"
+include ':app'
+include ':app:test7-2'
+=======
+rootProject.name = "Test7-2"
+include ':app'
+>>>>>>> a8055e0 (test7-2 commit)

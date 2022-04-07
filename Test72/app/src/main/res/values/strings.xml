@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Test7</string>
+=======
+    <string name="app_name">Test7-2</string>
+>>>>>>> a8055e0 (test7-2 commit)
+</resources>
